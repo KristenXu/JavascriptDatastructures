@@ -3,7 +3,7 @@
 Some basic data structures in javascript(ECMAScript5)
 Including:
 * Array
-* Stack
+* [Stack](https://github.com/KristenXu/JavascriptDatastructures/blob/master/Stack.js)
 * Quene
 * LinkList
 * Set
