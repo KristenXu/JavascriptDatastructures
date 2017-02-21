@@ -11,3 +11,4 @@ Including:
 * HashTable
 * Tree
 * Map
+* [BinarySearchTree](https://github.com/KristenXu/JavascriptDatastructures/blob/master/BinarySearchTree.js)
