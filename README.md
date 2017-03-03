@@ -12,3 +12,4 @@ Including:
 * Tree
 * Map
 * [BinarySearchTree](https://github.com/KristenXu/JavascriptDatastructures/blob/master/BinarySearchTree.js)
+* [AVLTree](https://github.com/KristenXu/JavascriptDatastructures/blob/master/AVLTree.js)
