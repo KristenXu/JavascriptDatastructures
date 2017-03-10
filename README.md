@@ -1,7 +1,6 @@
 #Javascript Datasctructures
 ##About
 Some basic data structures in javascript(ECMAScript5)
-
 Including:
 
 * Array
