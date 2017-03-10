@@ -5,7 +5,7 @@ Including:
 * Array
 * [Stack](https://github.com/KristenXu/JavascriptDatastructures/blob/master/Stack.js)
 * [Quene](https://github.com/KristenXu/JavascriptDatastructures/blob/master/Queue.js)
-* LinkList
+* [LinkList](https://github.com/KristenXu/JavascriptDatastructures/blob/master/LinkList.js)
 * Set
 * Dictionary
 * HashTable
